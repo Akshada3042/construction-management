@@ -1,0 +1,40 @@
+.para-aboutus {
+    font-size: larger;
+    text-align: justify;
+}
+
+.div-2-2 {
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.card-text-p {
+    text-align: center;
+    text-wrap: pretty;
+    font-size: large;
+}
+
+.card-title-p {
+    background-color: #87CEFA;
+}
+
+.card-img-top-about {
+
+    width: 200px;
+    height: 200px;
+
+}
+
+.img-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.strength-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
