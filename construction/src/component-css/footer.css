@@ -1,0 +1,32 @@
+#footer-xl-4 {
+    padding: 30px;
+    border-left: 2px solid black;
+
+
+}
+
+#footer-xl-41 {
+    padding: 30px;
+
+}
+
+#footer-3-2 {
+    padding: 10px;
+}
+
+#footer-3-1 {
+    padding: 10px;
+}
+
+#footer-a {
+    padding: 10px;
+}
+
+.footer-container {
+    background-color: #002366;
+    color: aliceblue;
+    padding: 30px;
+    font-size: large;
+    font-weight: 500;
+
+}
